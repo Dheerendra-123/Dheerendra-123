@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheerendra Vikram Dixit</h1>
 <h3 align="center">Software Developer | MERN Stack | Python & C++ Enthusiast</h3>
 
-<img align="right" alt="Coding" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" height="240" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 - 🔭 I’m exploring **Dev Tools, and IDEs**
