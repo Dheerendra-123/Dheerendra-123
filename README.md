@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dheerendra Dixit</h1>
+<h1 align="center">Hi 👋, I'm Dheerendra Vikram Dixit</h1>
 <h3 align="center">Software Developer | MERN Stack | Python & C++ Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 - 🔭 I’m exploring **Dev Tools, and IDEs**
 - 💬 Ask me about **React, Node.js, Python, or C++**
@@ -13,8 +14,8 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,git,html,css,js,pyqt,vercel&theme=light" />
+<p align="left" style="pointer-events: none;">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,git,html,css,js,pyqt,vercel&theme=light" alt="Skill Icons" />
 </p>
 
 ---
