@@ -5,6 +5,8 @@
 
 - 🔭 I’m exploring **Dev Tools, and IDEs**
 - 💬 Ask me about **React, Node.js, Python, or C++**
+- 👨‍💻 I love building **React libraries**, **Python utilities**, and **C++ DSA repositories** to help other developers
+- 🎯 Passionate about clean code, developer UX, and solving real-world problems with software
 - 📫 Reach me at: **dheerendradixit4@gmail.com**
 
 ---
@@ -20,8 +22,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheerendra-dixit&show_icons=true&theme=radical" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerendra-dixit&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dheerendra-123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerendra-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerendra-123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
