@@ -26,22 +26,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerendra-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerendra-123&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
 ---
 
 ### 🚀 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/dheerendra-dixit-459a03244" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dheerendradixit4@gmail.com">
+  <a href="mailto:dheerendradixit321@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Dheerendra-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://dheerendra.in" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-informational?style=flat&logo=web&logoColor=white" />
   </a>
 </p>
