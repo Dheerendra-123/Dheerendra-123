@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, Node.js, Python, or C++**
 - 👨‍💻 I love building **React libraries**, **Python utilities**, and **C++ DSA repositories** to help other developers
 - 🎯 Passionate about clean code, developer UX, and solving real-world problems with software
-- 📫 Reach me at: **dheerendradixit4@gmail.com**
+- 📫 Reach me at: **dheerendradixit321@gmail.com**
 
 ---
 
@@ -18,16 +18,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,cpp,git,html,css,js,pyqt,vercel&theme=light" alt="Skill Icons" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dheerendra-123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerendra-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
-</p>
-
----
 
 ### 🚀 Let's Connect
 
